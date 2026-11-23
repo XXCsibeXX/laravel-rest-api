@@ -1,0 +1,7 @@
+{
+  "name": "Megyék és települések API",
+  "version": "1.0.0",
+  "description": "Laravel REST API Sanctum hitelesítéssel",
+  "title": "Megyék és települések API",
+  "url": "http://127.0.0.1:8000"
+}
